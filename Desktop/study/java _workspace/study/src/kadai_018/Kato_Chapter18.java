@@ -16,8 +16,8 @@ abstract public class Kato_Chapter18 {
 	
 	// 抽象メソッド　個別の自己紹介
 	abstract void eachIntroduce();
-	// 抽象メソッド　フィールドの値のセット
-	abstract void setGivenName();
+//	// 抽象メソッド　フィールドの値のセット
+//	abstract void setGivenName();
 	
 	
 	// メソッド　紹介を実行する
